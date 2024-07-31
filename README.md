@@ -7,8 +7,6 @@ Welcome to the Operating System Exercises repository! This repository is a colle
 - [Introduction](#introduction)
 - [Contents](#contents)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -32,11 +30,3 @@ To get started with these exercises, follow these steps:
    ```
 
 2. **Navigate to the exercise directory and follow the instructions provided in each exercise's README file.**
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new exercises, feel free to open an issue or submit a pull request. Your contributions help make this repository better for everyone.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
