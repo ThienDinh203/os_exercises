@@ -1,18 +1,18 @@
 #!/bin/sh
 
-if [ -d "PNG" ]
-then
-  echo "PNG already exists"
-else
-  mkdir -p ~/PNG
+if [ ! -d ~/PNG/ ]
+then 
+  mkdir ~/PNG
   echo "Make dir PNG success"
+else
+  echo "PNG already exists"
 fi
   
-if [ -d "JPG" ]
+if [ ! -d ~/JPG/ ]
 then
-  echo "JNG already exists"
-else
-  mkdir -p ~/JPG
+  mkdir ~/JPG
   echo "Make dir JPG success"
+else
+  echo "JNG already exists"
 fi
 exit 0
