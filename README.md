@@ -25,7 +25,7 @@ To get started with these exercises, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/os_exercises.git
+   git clone https://github.com/ThienDinh203/os_exercises.git
    cd os_exercises
    ```
 
